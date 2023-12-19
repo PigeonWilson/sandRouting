@@ -9,7 +9,7 @@ Uses php and mysql
 - prevent direct file linking, between session and between users
 
 # purpose
-- Make it painful to map the site
+- Make it painful to map a site
 
 # setup
 - see line 4 of sandLoader.php to change database configuration
