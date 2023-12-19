@@ -4,7 +4,7 @@ Uses php and mysql
 - transparent
 
 # functionalities
-- create beautiful meaningless html links
+- create beautiful meaningless (on the surface) html links
 - provide the ability to invalidate any links at once
 - prevent direct file linking, between session and between users
 
